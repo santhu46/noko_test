@@ -1,0 +1,6 @@
+<form action="/datascrap" method="post" >
+<label for="websit">Enter URL to Scrap</label>
+<input type="text" name="websit" value=""/> 
+<button type="submit" value="Scrap Now"/>
+
+</form>

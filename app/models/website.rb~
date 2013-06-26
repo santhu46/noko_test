@@ -1,0 +1,4 @@
+class Website < ActiveRecord::Base
+  # attr_accessible :title, :body
+belongs_to :data_scrapper
+end

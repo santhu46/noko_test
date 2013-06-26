@@ -1,0 +1,1 @@
+Page Has SignIN?,<%= @signin.inspect %>
